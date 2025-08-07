@@ -20,7 +20,7 @@ function Home() {
        <ReactTyped className='text-3xl text-red-600 font-bold'
       strings={[
         "Coder",
-        "Progrmmer",
+        "Programmer",
         "Developer",
       ]}
       typeSpeed={40}
